@@ -1,5 +1,5 @@
 # Thanks For Using Nicasso Library
-## This library is similar to the popular Picasso library but it is more light weight `7.69 KB` and  efficient.
+## This library is similar to the popular Picasso library but it is more light weight approximately `7.83 kB.` and  efficient.
 ## Follow the documentation below to know how to use the library
 
 ### Step 0: Add this to your project gradle
