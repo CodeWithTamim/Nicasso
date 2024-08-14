@@ -31,14 +31,14 @@ dependencyResolutionManagement {
 ```groovy
 dependencies 
 {
-  implementation 'com.github.CodeWithTamim:Nicasso:1.0.1'
+  implementation 'com.github.CodeWithTamim:Nicasso:1.0.2'
 }
 ```
 #### `build.gradle.kts` app level module
 ```groovy
 dependencies 
 {
-implementation("com.github.CodeWithTamim:Nicasso:1.0.1")
+implementation("com.github.CodeWithTamim:Nicasso:1.0.2")
 }
 ```
 
