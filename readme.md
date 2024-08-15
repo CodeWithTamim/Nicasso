@@ -59,7 +59,7 @@ implementation("com.github.CodeWithTamim:Nicasso:1.0.2")
 #### Java
 ```java
 //load like this, NOTE: The default image is optional
-Nicasso.get(url).default(R.drawable.ic_launcher_background).load(imageView = iamgeView);
+Nicasso.get(url).default(R.drawable.ic_launcher_background).load(iamgeView);
  ```
  #### Kotlin
 ```kotlin
